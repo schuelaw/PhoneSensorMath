@@ -13,7 +13,7 @@ so that other lengths (i.e. kilometer) can be considered. Such an analysis
 might accompany an introductory calculus curriculum about time vs.
 distance.
 
-## Accelerometer Frequence Analysis
+## Accelerometer Frequency Analysis
 This notebook describes the collection and analysis of phone accelerometer
 data recorded while the phone rested on a clothes washer during its spin
 cycle. The rate of spin is determined by using the discrete Fourier
