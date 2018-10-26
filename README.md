@@ -9,7 +9,7 @@ There are a couple of ways of getting access to jupyter. The [Anaconda
 distribution](https://www.anaconda.com/download/) comes with a jupyter
 interface. Download and install the software, run the _Anaconda Navigator_
 and click the ```Launch``` button under the jupyter notebook icon. This
-will create a window in your browser that contains a fully function jupyter
+will create a window in your browser that contains a fully functioning jupyter
 environment.
 
 Alternatively, you can avoid installing software on your computer by
