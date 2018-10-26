@@ -3,7 +3,8 @@ A repository of math-oriented projects that incorporate data from sensors
 found in typical cell phones. The projects are all rendered in jupyter
 notebooks that have markdown annotations. To use these, download the .zip
 file of the repository, load the .ipynb file into jupyter, modify to suit
-your needs.
+your needs. Please visit https://github.com/schuelaw/PhoneSensorMath for
+the latest version.
 
 There are a couple of ways of getting access to jupyter. The [Anaconda
 distribution](https://www.anaconda.com/download/) comes with a jupyter
