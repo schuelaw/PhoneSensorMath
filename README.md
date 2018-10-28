@@ -60,24 +60,23 @@ if you have tips you'd like to add to this list, please send them to me.)
    It's wise to disable all battery optimization on whatever app you're
    using to record sensors.
 
-1. GPS recording, go to the GPS sensor page in the app, hit the record
-   button, go into "advanced stats" wait until GPS lock, then recording is
-   happening. Sometimes, if lock is lost during the recording, the
-   recording will stop without notice. Sample rate is about 1Hz. There is a
-   setting to "Keep the screen on". Keeping the screen on and carefully
-   putting the phone into a waistband or armband carrier has yielded the
-   most reliable recordings.
+1. GPS recording, go to the GPS sensor page in the app, go into "advanced
+   stats" wait until GPS lock, go back to the initial GPS screen, hit
+   record, then recording is happening. On my phone, it is necessary to
+   keep that screen selected and to keep the screen on during the _entire_
+   recording. Fortunately, there is a setting to "Keep the screen on".
+   Keeping the screen on and carefully putting the phone into a waistband
+   or armband carrier has yielded the most reliable recordings.
+   
+   Sometimes, if the GPS signal is lost during the recording, the recording
+   will stop without notice.
 
-1. Accelerometer recording seems to work pretty robustly by just hitting
-   the record button, note that it generates a lot of readings since the
-   sample rate is around 200Hz (at least on my phone).
+1. Accelerometer (an other sensor) recording seems to work pretty robustly
+   by just hitting the record button, note that it generates a lot of
+   readings since the sample rate is around 200Hz (at least on my phone).
 
-1. Multirecording, to collect, for example, GPS and accelerometer data
-   simultaneously, go to the GPS page and start a recording there (see
-   above), go to the accelerometer page and start a recording there, _then_
-   go to the Multirecord page, check the Linear Accelerometer and GPS boxes
-   and start recording there. Finally, go back to the GPS Advanced Stats
-   page and keep the screen on while recording.
+1. Multirecording, works as expected for most sensor combinations. I have
+   not been able to add GPS to a multirecording.
 
 1. In general, most of the issues seem to center around getting the GPS to
    lock and _stay_ locked. Getting the GPS going, bringing up the GPS
