@@ -17,6 +17,8 @@ Alternatively, you can avoid installing software on your computer by
 creating a free account at [CoCalc](https://cocalc.com/). Just login,
 create a project, upload the example files and run them in your browser.
 
+Collaborations and ideas for projects are welcome.
+
 ## GPS Fastest Mile Analysis
 __(FILE: PSM GPS Fastest Mile Analysis)__ This notebook describes the
 collection and analysis of GPS data recorded during an exercise
