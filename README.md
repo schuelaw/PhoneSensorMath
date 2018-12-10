@@ -24,9 +24,9 @@ SensorMath@gmail.com
 __(FILE: PSM GPS Fastest Mile Analysis)__ This notebook describes the
 collection and analysis of GPS data recorded during an exercise
 run/walk/bike. The analysis allows one to determine the fastest mile within
-the longer exercises course. The notebook is documented so that other
+the longer exercise course. The notebook is documented so that other
 lengths and units (i.e. kilometer) can be considered. Such an analysis might
-accompany an introductory calculus curriculum about time vs.  distance.
+accompany an introductory calculus curriculum about time vs. distance.
 
 ## Accelerometer Frequency Analysis
 __(FILE: PSM Accelerometer Frequency Analysis)__ This notebook describes
