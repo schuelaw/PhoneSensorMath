@@ -17,7 +17,8 @@ Alternatively, you can avoid installing software on your computer by
 creating a free account at [CoCalc](https://cocalc.com/). Just login,
 create a project, upload the example files and run them in your browser.
 
-Collaborations and ideas for projects are welcome.
+Collaborations and ideas for projects are welcome. Message at
+[SensorMath@gmail.com][mailto:sensormath@gmail.com]
 
 ## GPS Fastest Mile Analysis
 __(FILE: PSM GPS Fastest Mile Analysis)__ This notebook describes the
