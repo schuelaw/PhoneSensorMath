@@ -29,7 +29,7 @@ lengths and units (i.e. kilometer) can be considered. Such an analysis might
 accompany an introductory calculus curriculum about time vs. distance.
 
 __(FILE: PSM GPS Plotly Mapping Example - Mapbox)__ This notebook accepts
-recorded GPS data and plots it on a map using.  The notebook uses the
+recorded GPS data and plots it on a map.  The notebook uses the
 __[Plotly](https://plot.ly)__ plotting library and the
 __[Mapbox](https://www.mapbox.com/)__ mapping library. Both libraries are
 free for non-commercial use (with some minor limitations) and are suitable
