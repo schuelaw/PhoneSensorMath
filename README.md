@@ -28,6 +28,14 @@ the longer exercise course. The notebook is documented so that other
 lengths and units (i.e. kilometer) can be considered. Such an analysis might
 accompany an introductory calculus curriculum about time vs. distance.
 
+__(FILE: PSM GPS Plotly Mapping Example - Mapbox)__ This notebook accepts
+recorded GPS data and plots it on a map using.  The notebook uses the
+__[Plotly](https://plot.ly)__ plotting library and the
+__[Mapbox](https://www.mapbox.com/)__ mapping library. Both libraries are
+free for non-commercial use (with some minor limitations) and are suitable
+for use by students and instructors in academic data science
+applications.
+
 ## Accelerometer Frequency Analysis
 __(FILE: PSM Accelerometer Frequency Analysis)__ This notebook describes
 the collection and analysis of phone accelerometer data recorded while the
