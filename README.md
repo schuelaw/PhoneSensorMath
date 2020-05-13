@@ -45,6 +45,15 @@ dominant frequency of vibration in the accelerometer data. This analysis
 might accompany an engineering math course as it discusses the discrete
 Fourier transform.
 
+## Calculating Height with the Accelerometer
+__(FILE: PSM Calculating Height)__ This notebook describes
+the collection and analysis of accelerometer data recorded while a phone rose
+from the floor to the height of a person. Then the height is calculated using
+calculus and approximating the integral of the acceleration data to find velocity
+and then again approximating the integral of the velocity data to find the
+change in posiiton, or height of the person. This analysis could accompany
+a Calculus class at many levels as well as a Physics class.
+
 ## Physics Toolbox Sensor Suite
 The examples in this repository use data collected with a free app called
 the [Physics Toolbox Sensor Suite](https://www.vieyrasoftware.net/). There
