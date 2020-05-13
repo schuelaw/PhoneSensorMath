@@ -54,6 +54,32 @@ and then again approximating the integral of the velocity data to find the
 change in posiiton, or height of the person. This analysis could accompany
 a Calculus class at many levels as well as a Physics class.
 
+## Examining Circular Motion and Calculating Revolutions Per Minute of a Turn Table
+__(FILE: PSM Circular Motion)__ This notebook describes the collection and analysis
+of accelerometer data recorded while a phone was spinning on a turn table. This notebook uses a 
+discrete Fourier transformation to find the dominant frequency of the motion. The angualr 
+velocity is calculated as revolutions per minute using the dominant frequency. 
+It reconciles with the speed of the turn table (33 and a third). This analysis could
+work in a variety of classes discussing the discrete Fourier transform or circular motion.
+
+## Calculating Height with the Inclinometer
+__(FILE: PSM Inclinometer Height)__ This notebook describes the collection and analysis
+of inclinometer data recorded while a phone slanted from pointing to the ground to the
+height of the object. There is a laser pointer attached to the phone. With simple trigonmetric 
+analysis, we can find the the height of the object. This analysis would accompany a Geometry or 
+Trigonometry class.
+
+## GPS Golf Round Analysis
+__(FILE: PSM GPS Golf Tracking)__ This notebook describes the collection and analysis of
+GPS data recorded from a golf bag during a golf round. While this would be an informative activity for a high school or collegiate golf team, it can be easily modified for broader classroom applications. Students could be assigned to walk from their house or another point to the school and determine what the distance is as the bird flies using the same methods. This notebook uses the Haversine formula which takes into account the curvature of the Earth. This analyis could accompany a Geometry class and a discussion of Spherical Geometry.
+
+## GPS Crossing Paths Analysis
+__(FILE: PSM GPS Crossing Paths)__ This notebook describes the collection and analysis of recording the GPS data of two people over the course of a few days. This allows the user to find the closest point of interaction throughout the time using the Haversine formula and then map the data. This analysis could accompany a variety of math courses.
+
+## Calculating the Coefficient of Restitution with the Microphone
+__(FILE: PSM Coefficient of Restitution)__ This notebook describes the collection and analysis of a microphone recording while a golf ball was bouncing on the floor. The notebook determines the time between bounces with help from the user and then calculates the coefficient of restitution to determine the energy lost while a ball bounces. This analysis could accompany a Physics class. 
+
+
 ## Physics Toolbox Sensor Suite
 The examples in this repository use data collected with a free app called
 the [Physics Toolbox Sensor Suite](https://www.vieyrasoftware.net/). There
